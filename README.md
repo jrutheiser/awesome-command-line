@@ -1,12 +1,14 @@
 # Awesome Command Line
 
-A list of useful command line programs.
+*A list of useful command line programs*
 
-* [Chat](#chat)
-* [Email](#email)
-* [Music](#music)
-* [Text Editor](#text-editor)
-* [Web Browser](#web-browser)
+## Table of Contents
+
+  1. [Chat](#chat)
+  1. [Email](#email)
+  1. [Music](#music)
+  1. [Text Editor](#text-editor)
+  1. [Web Browser](#web-browser)
 
 ## Chat
 
