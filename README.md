@@ -8,6 +8,7 @@
   1. [Email](#email)
   1. [Music](#music)
   1. [Text Editor](#text-editor)
+  1. [Torrent](#torrent)
   1. [Web Browser](#web-browser)
 
 ## Chat
@@ -22,12 +23,19 @@
 ## Music
 
 * [cmus](https://cmus.github.io/)
+* [pianobar](https://6xq.net/pianobar/)
 
 ## Text Editor
 
 * [emacs](http://www.gnu.org/software/emacs/)
 * [nano](http://www.nano-editor.org/)
 * [vim](http://www.vim.org/)
+
+## Torrent
+
+* [deluge](http://deluge-torrent.org/)
+* [rtorrent](https://rakshasa.github.io/rtorrent/)
+* [transmission](https://www.transmissionbt.com/)
 
 ## Web Browser
 
