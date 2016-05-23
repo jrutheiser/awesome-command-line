@@ -1,48 +1,57 @@
 # Awesome Command Line
 
-*A list of useful command line programs*
+A curated list of awesome command line software.
+
+Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Table of Contents
 
-  1. [Chat](#chat)
-  1. [Email](#email)
-  1. [Music](#music)
-  1. [RSS](#rss)
-  1. [Text Editor](#text-editor)
-  1. [Torrent](#torrent)
-  1. [Web Browser](#web-browser)
+* [Audio/Music](#audiomusic)
+* [Chat](#chat)
+* [Email](#email)
+* [RSS](#rss)
+* [Text Editor](#text-editor)
+* [Torrent](#torrent)
+* [Web Browser](#web-browser)
 
-## Chat
+## Software
 
-* [irssi](https://irssi.org/)
-* [weechat](https://weechat.org/)
+### Audio/Music
 
-## Email
+* [cmus](https://cmus.github.io/) - Small, fast and powerful music player
+* [pianobar](https://6xq.net/pianobar/) - Pandora radio player
 
-* [mutt](http://www.mutt.org/)
+### Chat
 
-## Music
+* [irssi](https://irssi.org/) - IRC client
 
-* [cmus](https://cmus.github.io/)
-* [pianobar](https://6xq.net/pianobar/)
+### Email
 
-## RSS
+* [mutt](http://www.mutt.org/) - Client with POP3 and IMAP support
 
-* [newsbeuter](http://newsbeuter.org/)
+### RSS
 
-## Text Editor
+* [newsbeuter](http://newsbeuter.org/) - RSS/Atom feed reader
 
-* [emacs](http://www.gnu.org/software/emacs/)
-* [nano](http://www.nano-editor.org/)
-* [vim](http://www.vim.org/)
+### Text Editor
 
-## Torrent
+* [emacs](http://www.gnu.org/software/emacs/) - Extensible and customizable text editor
+* [nano](http://www.nano-editor.org/) - Simple text editor
+* [vim](http://www.vim.org/) - Highly configurable text editor
 
-* [deluge](http://deluge-torrent.org/)
-* [rtorrent](https://rakshasa.github.io/rtorrent/)
-* [transmission](https://www.transmissionbt.com/)
+### Torrent
 
-## Web Browser
+* [rtorrent](https://rakshasa.github.io/rtorrent/) - Lightweight and fast libTorrent client
 
-* [lynx](http://lynx.browser.org/)
+### Web Browser
+
+* [lynx](http://lynx.browser.org/) - Text web browser
+
+## Contributing
+
+Contributions are always welcome!
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
