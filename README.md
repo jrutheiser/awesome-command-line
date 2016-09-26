@@ -1,6 +1,6 @@
 # Awesome Command Line
 
-A curated list of awesome command line software.
+> A curated list of awesome command line software
 
 Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesome).
 
