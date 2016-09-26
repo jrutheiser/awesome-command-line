@@ -2,6 +2,8 @@
 
 > A curated list of awesome command line software
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 Inspired by all the other [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Table of Contents
